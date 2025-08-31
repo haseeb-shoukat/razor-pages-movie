@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/haseeb/Desktop/NET/razor-pages-movie/RazorPagesMovie/RazorPagesMovie.csproj",
+      "projectUniqueName": "/home/haseeb/Desktop/NET/razor-pages-movie/RazorPagesMovie.csproj",
       "projectName": "RazorPagesMovie",
-      "projectPath": "/home/haseeb/Desktop/NET/razor-pages-movie/RazorPagesMovie/RazorPagesMovie.csproj",
+      "projectPath": "/home/haseeb/Desktop/NET/razor-pages-movie/RazorPagesMovie.csproj",
       "packagesPath": "/home/haseeb/.nuget/packages/",
-      "outputPath": "/home/haseeb/Desktop/NET/razor-pages-movie/RazorPagesMovie/obj/",
+      "outputPath": "/home/haseeb/Desktop/NET/razor-pages-movie/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/haseeb/.nuget/NuGet/NuGet.Config"
